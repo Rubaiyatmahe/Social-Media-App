@@ -1,6 +1,8 @@
 # Social-Media-App
 App Details
 
+![ban](https://user-images.githubusercontent.com/80895946/211305975-44ab858a-9923-4e4e-a3c1-3118782875cf.png)
+
 ![1](https://user-images.githubusercontent.com/80895946/200799117-4ba9eb2e-4415-41c3-b813-77c490121ca6.png)
 ![2](https://user-images.githubusercontent.com/80895946/200799133-aa0416b3-371a-4b68-8c6d-54e524f44af9.png)
 ![3](https://user-images.githubusercontent.com/80895946/200799155-5c2f8988-8f18-40ba-80f9-ec8d2e1cda25.png)
